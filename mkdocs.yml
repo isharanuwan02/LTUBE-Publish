@@ -1,0 +1,8 @@
+site_name: LTube
+
+theme:
+  name: material
+
+nav:
+  - Home: index.md
+  - Enduser- Guide: enduser.md
